@@ -1,2 +1,1 @@
-Warehouse Manager With database
-warehouse manager with database in c++
+Warehouse Manager With database in c++
