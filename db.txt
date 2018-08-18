@@ -1,0 +1,21 @@
+To use this program you must have two database, password.db and warehouse.db
+the first has a table called password with this structure
+create table password (
+user varchar(30),
+password varchar(30));
+
+while the second has two table 
+CREATE TABLE warehouse(
+code varchar(30) primary key,
+name varchar(30),
+type varchar(30),
+price double,
+number int);
+
+CREATE TABLE earn 
+(
+money double 
+);
+
+if you want to help me check my website emanueleveri.it i'd appreciate it !
+
